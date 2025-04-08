@@ -1,5 +1,81 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 2,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Right after thanking the audience, the vocalist adds, looking at the band] Next. [Someone from the audience interjects] Dont say thank you, we're a serious fucking audience. [Vocalist] Alright! [Guitar player adds, pointing at the audience] Youre a really fucking funny guy, man. [Vocalist] Lets go, next song! [Scattered laughter and incomprehensible heckling between band and audience] | Video Description: Medium shot, panning left and right, of the band members interacting with each other and with the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "category": "Setting",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "4db0b112-49c6-46de-9cfd-975101445a6b"
+    },
+    {
+      "start_time": 2,
+      "end_time": 4,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocalist, with the guitarist interrupting the last word with a loud chord] In case you didnt notice, this is an artistic (event?). [An audience member] If you didnt (pack your lip?) it would be better. [Vocalist] Go for it. [Guitarist, out of the frame] Better than what? | Video Description: Closeup of the vocalist interacting with the band members and the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Commentators",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "category": "Setting",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "ba3f4c15-e38c-456f-b10a-f47eda5f1335"
+    },
+    {
+      "start_time": 4,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Vocalist, with the guitarist interrupting the last word with a loud chord] In case you didnt notice, this is an artistic (event?). [An audience member] If you didnt (pack your lip?) it would be better. [Vocalist] Go for it. [Guitarist, out of the frame] Better than what? | Video Description: Closeup of the vocalist interacting with the band members and the audience."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Commentators",
+          "tag": "Phineas Flower Trio"
+        },
+        {
+          "category": "Setting",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "f41d4b1b-7ca5-4f54-a093-746e62be8b9a"
+    }
+  ],
   "set": "Default",
   "event_id": "8e24d3bb-81df-4813-9186-b6e58651c2e1",
   "source_id": "f81d1b0a-8252-4a89-8c47-19da4a4aa436"
