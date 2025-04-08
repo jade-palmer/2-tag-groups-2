@@ -74,6 +74,132 @@
         }
       ],
       "uuid": "f41d4b1b-7ca5-4f54-a093-746e62be8b9a"
+    },
+    {
+      "start_time": 0,
+      "end_time": 13,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The tape includes excerpts from four different events: (1) Enough Said 1995-02-20, Backo and Groupe ; (2) Enough Said 1995-02-27, Skarstedt and Suderman; (3) Enough Said 1995-03-06, Phineas Flower Trio and Godin; (4) Enough Said 1995-03-13, Karasick."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Tech",
+          "tag": "SpokenWeb notes"
+        }
+      ],
+      "uuid": "3849eb3d-3fcc-41e3-8823-ac985bac4ee5"
+    },
+    {
+      "start_time": 14,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Video Description: Colour video, different degrees of closeup of the stage at Bistro 4 (Quatre) (4040 St. Lauren, QC, H2W 1Y8, Canada). A single mic stand. The stage, slightly below street level, is set against a full-wall window looking out onto the St. Laurent Blvd. traffic]with both pedestrians and vehicles regularly passing by. The windows from across the street are also visible, including an outdoor \"JETHRO\" sign. People frequently pass in front of the camera. On the windows, some decals are partially visible, with words from the menu such as \",\" \"CAPPUCCINO,\" and \"TISANE.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Setting",
+          "tag": "Bistro 4 stage"
+        }
+      ],
+      "uuid": "9455cdf5-f6d9-4e73-9fac-d40a439b75ba"
+    },
+    {
+      "start_time": 15,
+      "end_time": 963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Drums while telling a story in English, opening with the line \"Some have seen it and wish they hadn't.\" Applause.] | Video Description: Medium shot of Trevor Ferrier entering the stage and picking up his percussion instrument from the floor. Ferrier wears a red Henley shirt with the sleeves rolled up, shaved head, and thin moustache. Different degrees of closeup as Ferrier tells a story while playing percussion."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers",
+          "tag": "Trevor Ferrier"
+        }
+      ],
+      "uuid": "aa500025-e737-4965-869c-0fc2169f35a4"
+    },
+    {
+      "start_time": 963,
+      "end_time": 2110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Plays the sanza while telling another story in English, opening with the line \"Once on the far side of yesterday there lived a little girl who wanted to know the future.\" Applause.] | Video Description: Medium shot of Trevor Ferrier picking up the sanza.  Different degrees of closeup as Ferrier tells a story while playing the sanza. At some point the camera zooms into an extreme closeup of his hands playing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers",
+          "tag": "Trevor Ferrier"
+        }
+      ],
+      "uuid": "59ec0b9f-436b-4d0c-8078-6ca3dcf3d8a9"
+    },
+    {
+      "start_time": 2110,
+      "end_time": 2129,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Thanks Trevor Ferrier and announces a break.] | Video Description: Lee Gotham walks to stage and makes remarks. Gotham wears a grey button-down shirt with sleeves a bit rolled up and tucked into jeans, black leather belt, full beard, and long hair tied in a ponytail."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "76ad6086-8b63-4f9d-92ba-1103c85184c6"
+    },
+    {
+      "start_time": 2129,
+      "end_time": 2140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Cut to Lee Gotham introducing Njacko Backo.] | Video Description: Medium long shot from the other side of the stage, now capturing the performers slightly from a diagonal left."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Performers",
+          "tag": "Lee Gotham"
+        }
+      ],
+      "uuid": "09f476e3-6a8e-4b4a-acf4-01bc70fa7303"
     }
   ],
   "set": "Default",
