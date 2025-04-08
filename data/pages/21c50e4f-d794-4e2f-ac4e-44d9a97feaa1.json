@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-04-08T17:15:57.091Z",
+  "created_by": "jade-palmer",
+  "title": "ANOTHER TEST",
+  "slug": "another-test",
+  "updated_at": "2025-04-08T17:15:57.091Z",
+  "updated_by": "jade-palmer",
+  "parent": "3bf66f99-82a1-4355-991e-34a5856d1ebb",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "8e24d3bb-81df-4813-9186-b6e58651c2e1"
+  }
+}
